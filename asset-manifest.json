@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afd7172b.chunk.css",
+    "main.js": "/static/js/main.c9f3d77a.chunk.js",
+    "main.js.map": "/static/js/main.c9f3d77a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9f95e6dc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9f95e6dc.js.map",
+    "static/js/2.debccc28.chunk.js": "/static/js/2.debccc28.chunk.js",
+    "static/js/2.debccc28.chunk.js.map": "/static/js/2.debccc28.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.debccc28.chunk.js.LICENSE.txt": "/static/js/2.debccc28.chunk.js.LICENSE.txt",
+    "static/media/Cinema_Calligraphy_Web.ee3b9e86.ttf": "/static/media/Cinema_Calligraphy_Web.ee3b9e86.ttf",
+    "static/media/Eurostile.7eb6243e.ttf": "/static/media/Eurostile.7eb6243e.ttf",
+    "static/media/HMU.5ce24c3d.jpg": "/static/media/HMU.5ce24c3d.jpg",
+    "static/media/KH2ALLMENUItalic.c6309369.woff": "/static/media/KH2ALLMENUItalic.c6309369.woff",
+    "static/media/anime-worker.3ef953ea.png": "/static/media/anime-worker.3ef953ea.png",
+    "static/media/at-blizzard-Copy.acdfe427.jpg": "/static/media/at-blizzard-Copy.acdfe427.jpg",
+    "static/media/bj-thumbnail.37b5cd8e.png": "/static/media/bj-thumbnail.37b5cd8e.png",
+    "static/media/blizz-world-thumbnail.b1854212.PNG": "/static/media/blizz-world-thumbnail.b1854212.PNG",
+    "static/media/dive-in.2c3b7026.jpg": "/static/media/dive-in.2c3b7026.jpg",
+    "static/media/durarara.428758b9.png": "/static/media/durarara.428758b9.png",
+    "static/media/gol-thumbnail.691b8863.png": "/static/media/gol-thumbnail.691b8863.png",
+    "static/media/haunted.ab2e3377.jpg": "/static/media/haunted.ab2e3377.jpg",
+    "static/media/linkedin-log.68ac41e1.png": "/static/media/linkedin-log.68ac41e1.png",
+    "static/media/missualready.7e94ec6a.jpg": "/static/media/missualready.7e94ec6a.jpg",
+    "static/media/ourway.6315f427.jpg": "/static/media/ourway.6315f427.jpg",
+    "static/media/pso.774fc8d7.jpg": "/static/media/pso.774fc8d7.jpg",
+    "static/media/resume.4c06251e.pdf": "/static/media/resume.4c06251e.pdf",
+    "static/media/stickwitu.c91a06a7.jpg": "/static/media/stickwitu.c91a06a7.jpg",
+    "static/media/studyspacethumbnails.d69982dc.PNG": "/static/media/studyspacethumbnails.d69982dc.PNG",
+    "static/media/suggest-anime-thumbnail.4ba68e9f.png": "/static/media/suggest-anime-thumbnail.4ba68e9f.png",
+    "static/media/watercolor-bg.ffdfc486.png": "/static/media/watercolor-bg.ffdfc486.png",
+    "static/media/whenihadu.e878de11.jpg": "/static/media/whenihadu.e878de11.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f95e6dc.js",
+    "static/js/2.debccc28.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.c9f3d77a.chunk.js"
+  ]
+}
