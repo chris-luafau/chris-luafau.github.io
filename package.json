@@ -1,0 +1,44 @@
+{
+  "name": "chris-luafau.github.io",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-is": "^16.8.6",
+    "react-pdf": "^4.1.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.2",
+    "react-soundplayer": "^1.0.4",
+    "react-transition-group": "^4.3.0",
+    "react-youtube": "^7.9.0",
+    "styled-components": "^5.0.0-beta.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "https://chris-luafau.github.io",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
