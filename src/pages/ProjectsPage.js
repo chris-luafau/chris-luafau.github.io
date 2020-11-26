@@ -209,6 +209,7 @@ export default class Projects extends React.Component {
                 </Overlay>
               </ImgDiv>
             </Item>
+            {/*
               <Item>
               <ImgDiv>
                 <ImgLink>
@@ -229,6 +230,7 @@ export default class Projects extends React.Component {
                 </Overlay>
               </ImgDiv>
               </Item>
+            */}
             <Item>
               <ImgDiv>
                 <ImgLink>
