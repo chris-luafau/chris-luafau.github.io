@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.afd7172b.chunk.css",
-    "main.js": "/static/js/main.02dfb56d.chunk.js",
-    "main.js.map": "/static/js/main.02dfb56d.chunk.js.map",
+    "main.js": "/static/js/main.57c56f7b.chunk.js",
+    "main.js.map": "/static/js/main.57c56f7b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f95e6dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f95e6dc.js.map",
     "static/js/2.debccc28.chunk.js": "/static/js/2.debccc28.chunk.js",
@@ -20,6 +20,7 @@
     "static/media/blizz-world-thumbnail.b1854212.PNG": "/static/media/blizz-world-thumbnail.b1854212.PNG",
     "static/media/dive-in.2c3b7026.jpg": "/static/media/dive-in.2c3b7026.jpg",
     "static/media/durarara.428758b9.png": "/static/media/durarara.428758b9.png",
+    "static/media/github_logo.0765cc93.png": "/static/media/github_logo.0765cc93.png",
     "static/media/gol-thumbnail.691b8863.png": "/static/media/gol-thumbnail.691b8863.png",
     "static/media/haunted.ab2e3377.jpg": "/static/media/haunted.ab2e3377.jpg",
     "static/media/linkedin-log.68ac41e1.png": "/static/media/linkedin-log.68ac41e1.png",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.9f95e6dc.js",
     "static/js/2.debccc28.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.02dfb56d.chunk.js"
+    "static/js/main.57c56f7b.chunk.js"
   ]
 }
