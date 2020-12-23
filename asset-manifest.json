@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.afd7172b.chunk.css",
-    "main.js": "/static/js/main.57c56f7b.chunk.js",
-    "main.js.map": "/static/js/main.57c56f7b.chunk.js.map",
+    "main.js": "/static/js/main.92c6bce3.chunk.js",
+    "main.js.map": "/static/js/main.92c6bce3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9f95e6dc.js",
     "runtime-main.js.map": "/static/js/runtime-main.9f95e6dc.js.map",
     "static/js/2.debccc28.chunk.js": "/static/js/2.debccc28.chunk.js",
@@ -15,6 +15,7 @@
     "static/media/HMU.5ce24c3d.jpg": "/static/media/HMU.5ce24c3d.jpg",
     "static/media/KH2ALLMENUItalic.c6309369.woff": "/static/media/KH2ALLMENUItalic.c6309369.woff",
     "static/media/anime-worker.3ef953ea.png": "/static/media/anime-worker.3ef953ea.png",
+    "static/media/at-blizzard-Copy.acdfe427.jpg": "/static/media/at-blizzard-Copy.acdfe427.jpg",
     "static/media/at-google.e2c5eaa3.jpg": "/static/media/at-google.e2c5eaa3.jpg",
     "static/media/bj-thumbnail.37b5cd8e.png": "/static/media/bj-thumbnail.37b5cd8e.png",
     "static/media/blizz-world-thumbnail.b1854212.PNG": "/static/media/blizz-world-thumbnail.b1854212.PNG",
@@ -38,6 +39,6 @@
     "static/js/runtime-main.9f95e6dc.js",
     "static/js/2.debccc28.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.57c56f7b.chunk.js"
+    "static/js/main.92c6bce3.chunk.js"
   ]
 }
